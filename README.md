@@ -1,6 +1,4 @@
-# Glaciers E-portfolio
-
-## About
+## About this webpage
 Hello and welcome to my E-Portfolio!
 Throughout this site you will see some projects i worked on in my spare time.
 
