@@ -1,2 +1,2 @@
-# Glacier-Ali
-Some of my work
+# Glacier Ali
+Hello and welcome to my E-portfolio!
